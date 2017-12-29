@@ -1,0 +1,55 @@
+Request URL:http://passport.simuwang.com/index.php?m=Passport&c=auth&a=login&&rz_cback=jQuery1113023200056153287818_1511183053085&type=login&name=18810717699&pass=Justfor165&reme=1&rn=1&_=1511183053092
+Request Method:GET
+Status Code:200 OK
+Remote Address:120.24.241.224:80
+Referrer Policy:no-referrer-when-downgrade
+Response Headers
+view source
+Cache-Control:no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Connection:keep-alive
+Content-Encoding:gzip
+Content-Type:application/json; charset=utf-8
+Date:Mon, 20 Nov 2017 13:06:07 GMT
+Expires:Thu, 19 Nov 1981 08:52:00 GMT
+Pragma:no-cache
+Server:nginx
+Set-Cookie:cur_ck_time=1511183167; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Set-Cookie:rz_u_p=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:passport=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:cur_ck_time=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:rz_rem_u_p=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:ck_request_key=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:autologin_status=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:need_update_password=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.simuwang.com
+Set-Cookie:ck_request_key=b1MMa%2B27pX9iumcsE7ncejVsTTevx4Lv2hW%2FRVK7UR4%3D; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Set-Cookie:http_tK_cache=ed5f580d00450076186651c9b70de3f42b29b721; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Set-Cookie:passport=454009%09u7450848555560%09VlEHAlJXAFBdB1JWDFJSAwEJUQZQAAgACVQBB1cMVVM%3D1f585ae031; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Set-Cookie:rz_u_p=d41d8cd98f00b204e9800998ecf8427e%3Du7450848555560; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Set-Cookie:rz_rem_u_p=n3gvqk6CTYTHE%2FCDWI6g%2BpALz5vVn4xOSD4y1MF8xv4%3D%24yKtr98ocAnaEFKOTFhGd9N5SeGTrMMXHPEr12GHcrgM%3D; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Set-Cookie:passportmall=AAIDVwUOO0cEVgwID1JaAARXBlUDf7c3e89b7e; expires=Thu, 30-Nov-2017 13:06:07 GMT; Max-Age=864000; path=/; domain=.simuwang.com
+Transfer-Encoding:chunked
+Vary:Accept-Encoding
+Request Headers
+view source
+Accept:*/*
+Accept-Encoding:gzip, deflate
+Accept-Language:zh-CN,zh;q=0.9
+Connection:keep-alive
+Cookie:guest_id=1500669204; regsms=1510574234000; rz_utm_source=12; had_quiz_454009=1511162638000; had_quiz_454009%09u7450848555560%09VlEHAlJXAFBdB1JWDFJSAwEJUQZQAAgACVQBB1cMVVM%3D1f585ae031=1511164485000; rz_token_6658=532f73e4e5e561884f2565bbe4a403f8.1511182882; stat_sessid=93cr69qneknotdhibebpqff8i3; PHPSESSID=7l47csnpp8526ve0tb28a67kf6; LXB_REFER=bzclk.baidu.com; smppw_tz_auth=1; passportmall=AAIDVwUOO0cEVgwID1JaAARXBlUDf7c3e89b7e; Hm_lvt_c3f6328a1a952e922e996c667234cdae=1511162729,1511163447,1511172393,1511182883; Hm_lpvt_c3f6328a1a952e922e996c667234cdae=1511183053; http_tK_cache=ed5f580d00450076186651c9b70de3f42b29b721
+Host:passport.simuwang.com
+Referer:http://www.simuwang.com/?utm_source=12
+User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36
+Query String Parameters
+view source
+view URL encoded
+m:Passport
+c:auth
+a:login
+(empty)
+rz_cback:jQuery1113023200056153287818_1511183053085
+type:login
+name:18810717699
+pass:Justfor165
+reme:1
+rn:1
+_:1511183053092
